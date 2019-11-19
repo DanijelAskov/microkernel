@@ -22,7 +22,7 @@ BCC provides a simple way of tempering with interrupt vector table (IVT) on MS D
 2. Download BCC 3.1 from [here](https://1drv.ms/u/s!AuZ7wmWsDfythjZTNW7PU0fB466C?e=Xtk0uW)
 3. Extract the archive to `C:\bc31\`
 4. Move the content of this repository to `C:\project\`
-5. Open command prompt, navigate to `C:\project\` and run `build.bat`
+5. Open command prompt, navigate to `C:\project\` and run `compile.bat`
 6. Run `run.bat`
 
 ## Note to the reader of this README
