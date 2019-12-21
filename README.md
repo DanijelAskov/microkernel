@@ -28,4 +28,4 @@ BCC provides a simple way of tempering with interrupt vector table (IVT) on MS D
 ## Note to the reader of this README
 
 If you have any question, suggestion or collaboration offer, please feel free to [contact me](mailto:danijel.askov@gmail.com).
-**If you find this project useful, please consider starring it!**
+**If you find this repository useful, please consider starring it!**
